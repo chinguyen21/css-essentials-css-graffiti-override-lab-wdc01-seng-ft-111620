@@ -1,1 +1,38 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+}
+
+#tag-3 {
+  display: none;
+}
+
+.parent #tag-4 {
+  display: none;
+}
+
+/* write your override styles here */
+#wall .tag-1 {
+    display: none;
+}
+
+#tag-3 {
+  display: none;
+}
+
+.parent #tag-4 {
+  display: none;
+}
+
+/* write your override styles here */
+#wall .tag-1 {
+    display: none;
+}
+
+#tag-3 {
+  display: none;
+}
+
+.parent #tag-4 {
+  display: none;
+}
