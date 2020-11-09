@@ -1,38 +1,32 @@
 /* write your override styles here */
 #wall .tag-1 {
-    display: none;
-}
-
-#tag-3 {
   display: none;
 }
 
-.parent #tag-4 {
+div#wall #tag-2 {
   display: none;
 }
 
-/* write your override styles here */
+#tag-3 .slick-wicked {
+  display: none;
+}
+
+.parent {
+  display: none;
+}
+
 #wall .tag-1 {
-    display: none;
-}
-
-#tag-3 {
   display: none;
 }
 
-.parent #tag-4 {
+div#wall #tag-2 {
   display: none;
 }
 
-/* write your override styles here */
-#wall .tag-1 {
-    display: none;
-}
-
-#tag-3 {
+#tag-3 .slick-wicked {
   display: none;
 }
 
-.parent #tag-4 {
+.parent {
   display: none;
 }
